@@ -1,0 +1,27 @@
+Mini Project in MVC
+
+You have to carry out a mini project in MVC as a part of term work for WDDN subject.
+Mini Project must have following features :
+1. Use of Entity framework.
+2. Basic or 3rd party Authentication feature.
+3. All CRUD operations.
+4. Admin level features
+Optional Features :
+1. CSS / Javascript / Bootstrap etc.
+2. Host your project on Azure Cloud service.
+==========================================================
+Example: Online Shopping System :
+- User Registration and Login
+- Place Order feature only without payment gateway.
+- Cart Management
+- Admin level features such as Product management, User management, Seller management etc.
+==========================================================
+
+-Mini Project should be done compulsory in group of 2 or 3 within same batch.
+-You have to submit details about your group and project definition in the following google form :
+
+https://goo.gl/forms/K8bHxftlILUpWUQi1
+
+Deadline for submission of project details : 30th September 2019, Monday 10.00 AM
+
+SELECTED PROJECT TITLE: "AGRICULTURE INFORMATION SYSTEM"
