@@ -38,7 +38,6 @@ Administrator Details:
 Page: localhost:____/Admin/Login
 (Same credentials for GMail Account for Sending Email)
 Email: agricultureinfosystem@gmail.com
-Password: ryz@2000
 
 Azure DevOps Team Project Link:
 https://dev.azure.com/yugrajani99/AgricultureInformationSystem/_git/AgricultureInformationSystem
